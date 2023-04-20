@@ -66,11 +66,11 @@ li {
 	margin-top: 20px;
 }
 .image-container img {
-	width: 250px; /* Update image width to make it larger */
-	height: 200px; /* Update image height to make it larger */
+	width: 150px; /* Update image width to make it smaller */
+	height: 150px; /* Update image height to make it smaller */
 	object-fit: cover;
 	margin: 0 10px;
-	border-radius: 5px;
+	border-radius: 50%;
 	border: 1px solid #ddd;
 }
 
@@ -114,18 +114,4 @@ th {
 }
 .skills-table th {
 	text-align: left;
-	width: 30%; /* Set width for table header */
-}
-.skills-table td {
-	width: 70%; /* Set width for table data */
-}
-
-/* Footer styles */
-footer {
-	text-align: center;
-	margin-top: 40px;
-}
-footer p {
-	font-size: 16px; /* Update font size to make it larger */
-	color: #666;
-}
+	width:
