@@ -70,7 +70,7 @@ li {
 	height: 150px; /* Update image height to make it smaller */
 	object-fit: cover;
 	margin: 0 10px;
-	border-radius: 50%;
+	border-radius: 50%; /* Make the image circular */
 	border: 1px solid #ddd;
 }
 
@@ -114,4 +114,18 @@ th {
 }
 .skills-table th {
 	text-align: left;
-	width:
+	width: 30%; /* Set width for table header */
+}
+.skills-table td {
+	width: 70%; /* Set width for table data */
+}
+
+/* Footer styles */
+footer {
+	text-align: center;
+	margin-top: 40px;
+}
+footer p {
+	font-size: 16px; /* Update font size to make it larger */
+	color: #666;
+}
