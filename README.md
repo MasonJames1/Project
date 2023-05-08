@@ -1,7 +1,7 @@
-# Webpage
+# My Portfolio
 ### This is my personal porfolio webpage. It contains information about my experience and education in the Business Analytics field.
 
-## Here is the URL to my Profolio [My Portfolio](masonjames.org)
+## Here is the link to [My Portfolio](masonjames.org)
 
 ## Content
 - Links
@@ -12,3 +12,7 @@
   - Phone Number
 
 ![alt text](images.jpeg)
+
+:grinning:
+:astonished:
+:poop:
